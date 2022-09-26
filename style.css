@@ -1,0 +1,50 @@
+.game-box {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-top: 100px;
+    max-width: 700px;
+    width: 100%;
+    height: 500px;
+    background-color: #35654d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.game-box p {
+    margin-top: 35px;
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 40px;
+    color: goldenrod;
+}
+
+#message-El {
+    font-style: italic;
+}
+
+#button-El {
+    margin-top: 30px;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+
+#newcard-El {
+    margin-top: 10px;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
